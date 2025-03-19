@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "jurnal5_103022300024": {
+      "commandName": "Project"
+    },
+    "Container (Dockerfile)": {
+      "commandName": "Docker"
+    }
+  }
+}
